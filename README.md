@@ -1,4 +1,4 @@
-# 🚗 Car Sales Dashboard – IBM Data Analytics Final Assignment
+# Car Sales Dashboard – IBM Data Analytics Final Assignment
 
 ## 📌 Project Overview
 This project analyzes car sales and profits for **SwiftAuto Traders**, a chain of car dealerships. 
