@@ -31,9 +31,9 @@ The goal is to provide insights on car sales and profits for each dealer.
 - Line & Column chart: Quantity Sold vs Profit by Month
 - Heat map: Recalls by Model and Affected System
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel
 - IBM Cognos Analytics (Cloud Trial)
 
-## 📜 Dataset
+## Dataset
 Data sourced from the IBM Accelerator Catalog via the Coursera IBM Data Analytics course.
